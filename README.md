@@ -8,6 +8,8 @@
 2.随后把cpp编译成exe
 3.把生成的ini文件和exe文件放在同一个目录运行既可
 
+4.在命令行使用的时候，需要cd到exe和sc.ini文件所在的目录，不然无法上线!!!
+
 
 免杀效果如下图
 ![a](https://github.com/wz-wsl/360bypass/blob/main/finish.png)
