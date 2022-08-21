@@ -11,6 +11,8 @@
 4.在命令行使用的时候，需要cd到exe和sc.ini文件所在的目录，不然无法上线!!!
 
 
+5.本项目中的PassAv_x86.exe和PassAv_x64.exe是因为有些师傅编译失败，我把编译好的发出来
+
 免杀效果如下图
 ![a](https://github.com/wz-wsl/360bypass/blob/main/finish.png)
 ![b](https://github.com/wz-wsl/360bypass/blob/main/finish2.png)
